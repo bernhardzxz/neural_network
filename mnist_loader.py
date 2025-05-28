@@ -3,6 +3,7 @@ mnist_loader
 ~~~~~~~~~~~~
 
 A library to load the MNIST image data. Updated for Python 3.
+from: Michael Nielsen's Neural Networks and Deep Learning
 """
 
 #### Libraries
